@@ -1,0 +1,7 @@
+pandas
+selenium
+re
+webdriver_manager
+requests
+bs4
+tqdm
